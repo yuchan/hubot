@@ -6,6 +6,7 @@
     "hubot-google-images",
     "hubot-google-translate",
     "hubot-pugme",
+    "hubot-heroku-keepalive",
     "hubot-redis-brain",
     "hubot-maps",
     "hubot-rules",
