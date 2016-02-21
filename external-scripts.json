@@ -1,4 +1,5 @@
 [
+    "hubot-auth",
     "hubot-standup",
     "hubot-standup-alarm",
     "hubot-diagnostics",
