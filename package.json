@@ -4,10 +4,11 @@
   "private": true,
   "author": "Yusuke Ohashi <github@junkpiano.me>",
   "description": "A simple helpful robot for your Company",
-    "scripts": {
-        "test":"echo 'sorry for no tests.'"
-    },
-    "dependencies": {
+  "scripts": {
+    "test": "echo 'sorry for no tests.'"
+  },
+  "dependencies": {
+    "cheerio": "^0.22.0",
     "hubot": "^2.18.0",
     "hubot-auth": "^1.2.0",
     "hubot-diagnostics": "0.0.1",
@@ -23,7 +24,8 @@
     "hubot-shipit": "^0.2.0",
     "hubot-slack": "^3.4.2",
     "hubot-standup": "^0.1.8",
-    "hubot-standup-alarm": "0.0.7"
+    "hubot-standup-alarm": "0.0.7",
+    "request": "^2.81.0"
   },
   "engines": {
     "node": "0.10.x"
